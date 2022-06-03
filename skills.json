@@ -1,1 +1,15 @@
-SDLC,STLC,HTTP,JSON,XML,API,Postman,JavaScript,Charles,Fiddler,iOS,Android,Xcode,Linux,SQL,Postgres
+{
+	"1":"HTTP",
+	"2":"JSON",
+	"3":"XML",
+	"4":"API",
+	"5":"Postman",
+	"6":"JavaScript",
+	"7":"Charles",
+	"8":"iOS",
+	"9":"Android",
+	"10":"Xcode",
+	"11":"Linux",
+	"12":"SQL",
+	"13":"Postgres"
+}
